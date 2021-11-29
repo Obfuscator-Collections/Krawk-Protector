@@ -1,3 +1,3 @@
-# Krawk-Protector
+# Krawk Protector
 
-My Old Obfuscator
+Krawk Obfuscator

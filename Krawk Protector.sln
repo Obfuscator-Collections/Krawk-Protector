@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krawk Protector", "Krawk Protector.csproj", "{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krawk.Helpers", "Krawk.Helpers\Krawk.Helpers.csproj", "{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krawk.Runtime", "Krawk.Runtime\Krawk.Runtime.csproj", "{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_ThreadSafe|Any CPU = Debug_ThreadSafe|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release_ThreadSafe|Any CPU = Release_ThreadSafe|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Debug_ThreadSafe|Any CPU.ActiveCfg = Debug|Any CPU
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Debug_ThreadSafe|Any CPU.Build.0 = Debug|Any CPU
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Release_ThreadSafe|Any CPU.ActiveCfg = Release|Any CPU
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Release_ThreadSafe|Any CPU.Build.0 = Release|Any CPU
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464BB937-8A0C-4FFA-AED3-C84BDE96F7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Debug_ThreadSafe|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Debug_ThreadSafe|Any CPU.Build.0 = Debug|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Release_ThreadSafe|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Release_ThreadSafe|Any CPU.Build.0 = Release|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AE25E2-C490-4B1B-9963-4DC183BCEE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Debug_ThreadSafe|Any CPU.ActiveCfg = Debug|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Debug_ThreadSafe|Any CPU.Build.0 = Debug|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Release_ThreadSafe|Any CPU.ActiveCfg = Release|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Release_ThreadSafe|Any CPU.Build.0 = Release|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38833E5D-0F48-4DC1-BB60-92FC0DF8011F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2867F54-21B6-4D09-907F-FDB768D1D9F6}
+	EndGlobalSection
+EndGlobal
